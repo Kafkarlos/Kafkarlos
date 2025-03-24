@@ -1,7 +1,7 @@
 ## Olá, Meu nome é Hmyz
 
 <header>
-  <main>
+  <main style="display=grid;gri-template-coulumns=1f 1f">
     <h1>Linguagens</h1>
     <section align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100" height="100">
