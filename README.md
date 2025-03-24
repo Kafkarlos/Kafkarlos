@@ -1,8 +1,8 @@
 ## Olá, Meu nome é Hmyz
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=not2nder&theme=github_dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not2nder&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kafkarlos&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafkarlos&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
 ## Languages and tools
